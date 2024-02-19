@@ -6,7 +6,7 @@ import { io } from "socket.io-client";
 import "./chatpage.css";
 import { BsFillSendFill } from "react-icons/bs";
 import Navbartop from "../../NavBar.js/navbar";
-const socket = io.connect("https://mellifluous-zabaione-cd31bd.netlify.app");
+const socket = io.connect("https://chatapp-jarv.onrender.com");
 
 export default function App() {
   const id = sessionStorage.getItem("myid");
