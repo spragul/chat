@@ -1,4 +1,5 @@
-It is simple chat application. In this application used talk ing one to one. If user create multiple mobile number you have to chat with all user one by one.
+<p>It is simple chat application. In this application used talk ing one to one. If user create multiple mobile number you have to chat with all user one by one.
+toast message used to notification implemented</p>
 <hr>
 Back-end Source code = https://github.com/spragul/Chat-backend
 <hr>
@@ -6,7 +7,9 @@ Back-end Deployed URL= https://chatapp-jarv.onrender.com
 <hr>
 Front-end Deployed URL = https://mellifluous-zabaione-cd31bd.netlify.app/login
 <hr>
-
+<p>Final output</p>
+<a href="https://ibb.co/s9rx8Kf"><img src="https://i.ibb.co/Dfnc09J/6.jpg" alt="6" border="0"></a>
+<hr>
 <a href="https://ibb.co/2nz7CS1"><img src="https://i.ibb.co/GxZv894/2.jpg" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 <p>this is the signup page. you have to add details here.</p>
 <hr>
