@@ -6,7 +6,7 @@ import { io } from "socket.io-client";
 import "./chatpage.css";
 import { BsFillSendFill } from "react-icons/bs";
 import Navbartop from "../../NavBar.js/navbar";
-const socket = io.connect("http://localhost:9000");
+const socket = io.connect("https://mellifluous-zabaione-cd31bd.netlify.app");
 
 export default function App() {
   const id = sessionStorage.getItem("myid");
