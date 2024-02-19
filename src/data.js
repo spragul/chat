@@ -1,0 +1,32 @@
+export const data=[
+    {
+        name:"ragul",
+        email:"spragul33@gmail.com",
+        password:"Ragul123@",
+        mobile:'9788311156',
+        chatNumber:[
+            {
+                id:1,
+                addnumber:"9874563210",
+                chat:[
+                    'hi'
+                ]
+            }
+        ]
+    },
+    {
+        name:"gokul",
+        email:"gokul33@gmail.com",
+        password:"gokul123@",
+        mobile:'7978456321',
+        chatNumber:[
+            {
+                id:1,
+                addnumber:"9874563211",
+                chat:[
+                    'hi'
+                ]
+            }
+        ]
+    }
+]
