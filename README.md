@@ -1,70 +1,27 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>It is simple chat application. In this application used talk ing one to one. If user create multiple mobile number you have to chat with all user one by one.
+toast message used to notification implemented</p>
+<hr>
+Back-end Source code = https://github.com/spragul/Chat-backend
+<hr>
+Back-end Deployed URL= https://chatapp-jarv.onrender.com
+<hr>
+Front-end Deployed URL = https://mellifluous-zabaione-cd31bd.netlify.app/login
+<hr>
+<p>Final output</p>
+<a href="https://ibb.co/s9rx8Kf"><img src="https://i.ibb.co/Dfnc09J/6.jpg" alt="6" border="0"></a>
+<hr>
+<a href="https://ibb.co/2nz7CS1"><img src="https://i.ibb.co/GxZv894/2.jpg" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<p>this is the signup page. you have to add details here.</p>
+<hr>
+<a href="https://ibb.co/C1sS2Kp"><img src="https://i.ibb.co/WxpRtvN/3.jpg" alt="3" border="0"></a>
+<p>this is the ForgotPassword page. you have to add details here.</p>
+<hr>
+<a href="https://ibb.co/YZpxv8z"><img src="https://i.ibb.co/9ts7R2F/1.jpg" alt="1" border="0"></a>
+<p></p>this a login page. credentials: email:spragul33@gmail.com password:Ragul123@ another credential email:gokul123@gmail.com password:gokul123@ used login hear</p>
+<hr>
+<a href="https://ibb.co/xm4HqN1"><img src="https://i.ibb.co/pWmyjSf/5.jpg" alt="5" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
+<p>if your login. it will redirect chat page. in top bar add new chat is used to create new mobile number. if your create it will redirect chat page.</p>
+<hr>
+<a href="https://ibb.co/xSWXswf"><img src="https://i.ibb.co/rGYFtqc/4.jpg" alt="4" border="0"></a>
+<p>you have to click message button All chat will loading the chat window. You will chat hear...</p> 
+<hr>
