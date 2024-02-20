@@ -34,8 +34,12 @@ export function Reset() {
 
       const data = await response.json();
       sessionStorage.setItem("token", token);
+      if(data.rd==true){
       history.push("/login");
-      toast.success("password changed");
+      toast.success(data.message);
+      }else{
+        toast.error(data.message);
+      }
     } catch (error) {
       console.log(error);
       toast.error(`error :${error}`);

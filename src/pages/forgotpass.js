@@ -34,8 +34,12 @@ export function Forgot() {
       })
       const data = await response.json();
       console.log(data);
+      if(data.rd==true){
       history.push("/login")
-      toast.success("link send your gmail")
+      toast.success(data.message)
+      }else{
+        toast.warning(data.message);
+      }
 
     } catch (error) {
       console.log(error)

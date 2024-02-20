@@ -45,7 +45,9 @@ export function Login() {
 
       if(token){
         history.push("/dashboard")
-        toast.success("User login successful")
+        toast.success(data.message)
+      }else{
+        toast.error(data.message)
       }
 
     } catch (error) {

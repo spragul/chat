@@ -38,8 +38,12 @@ export function Signup() {
         },
       });
       const data = await response.json();
+      if(data.userrd==true){
       history.push("/login");
-      toast.success("User Data Add");
+      toast.success(data.message);
+      }else{
+        toast.error(data.message);
+      }
     } catch (error) {
       console.log(error);
       toast.error(`error :${error}`);
